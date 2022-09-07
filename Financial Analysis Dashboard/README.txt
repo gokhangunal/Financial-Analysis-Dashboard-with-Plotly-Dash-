@@ -1,0 +1,1 @@
+Before running the project, you need to import "userschema_usertable.sql" file to create usertable in MySQL database.
